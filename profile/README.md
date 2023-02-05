@@ -1,14 +1,14 @@
 
-![[what-the-spring-banner.png]]
+![what-the-spring-banner.png](assets/what-the-spring-banner.png)
 
 ## 멤버 소개
 
-##### 김민지 :stuck_out_tongue:
+### 김민지 :stuck_out_tongue:
 기획부터 개발까지 다재다능한 풀스택 개발자를 꿈꾸는 2년차 백엔드 개발자입니다 
 - Github: https://github.com/minnczi
 - Blog: https://velog.io/@minnczi
 
-##### 김영주
+### 김영주
 - Github:
 - Blog:
 
