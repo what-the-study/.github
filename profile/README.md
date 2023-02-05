@@ -1,5 +1,5 @@
 
-![[what-the-spring-banner.png] (assets/what-the-spring-banner.png)]
+![what-the-spring-banner.png] (assets/what-the-spring-banner.png)
 
 ## 멤버 소개
 
