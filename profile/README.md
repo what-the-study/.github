@@ -9,8 +9,9 @@
 - Blog: https://velog.io/@minnczi
 
 ### 김영주
-- Github:
-- Blog:
+파이썬 웹개발 강사 출신으로 지금은 자바 백엔드 개발자를 준비하고 있습니다.
+- Github: https://github.com/kylekim2123
+- Blog: https://kyleyj.tistory.com/
 
 ---
 ## Table of Contents
